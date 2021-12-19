@@ -1,0 +1,30 @@
+
+# Basic
+name:               "biq careers"
+
+# URL
+baseurl:            "https://careers.biq.kr"
+#baseurl:            "" #For Root Domain
+permalink:          /:title
+
+# Markdown
+markdown:           rdiscount
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
