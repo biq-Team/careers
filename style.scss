@@ -69,6 +69,26 @@ footer .info .info-link a{
 footer .info .info-link a:hover{
     color: #81919b;
 }
+.explanation{
+    margin-top: 130px;
+    padding-left: 23%;
+    padding-right: 23%;
+    margin-bottom: 100px;
+}
+.title-information{
+    color: rgb(114, 114, 114);
+    fill: rgb(144, 151, 160);
+    font-size: 16px;
+    line-height: 15px;
+    margin: 0;
+}
+.title-information svg{
+    margin-right: 6px;
+    vertical-align: bottom;
+}
+.title-information .ml{
+    margin-left: 27px;
+}
 @media (max-width: 760px){
     footer .info .brand{
         width: 100%;
@@ -77,6 +97,10 @@ footer .info .info-link a:hover{
     footer .info .info-link{
         margin-bottom: 20px;
         width: 100%;
+    }
+    .explanation{
+      padding-left: 3%;
+      padding-right: 3%;
     }
 }
 
