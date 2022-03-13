@@ -2,7 +2,7 @@
 title: PHP 웹, 소프트웨어 개발자
 where : WADE Interactive
 time : Full-time
-link : https://apply.biq.kr/?id=130451920593616896
+link : https://apply.biqapp.com/?id=130451920593616896
 ---
 ### 소개
 biq 및 관련 팀이 사용자에게 제공하는 웹들은 대부분 PHP와 Java Script로 제작되었습니다. PHP 웹, 소프트웨어 개발자는 이러한 서비스를 유지보수 할 뿐만 아니라, 서비스를 개발합니다.
