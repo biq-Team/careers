@@ -2,7 +2,7 @@
 title: 제품 홍보, 마케팅 담당자
 where : WADE Interactive
 time : Full-time
-link :  https://apply.biq.kr/?id=125333799121715200
+link :  https://apply.biqapp.com/?id=125333799121715200
 ---
 ### 소개
 biq 및 관련 팀이 사용자에게 제공하는 모든 서비스는 디지털 세계를 기반으로 합니다. 우리가 제공하는 서비스들을 크게 성장하기위해서는 제품 홍보 및 마케팅 담당자가 필요합니다.
