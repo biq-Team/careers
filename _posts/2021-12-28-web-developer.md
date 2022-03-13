@@ -2,7 +2,7 @@
 title: 웹, 소프트웨어 개발자
 where : WADE Interactive
 time : Full-time
-link : 	https://apply.biq.kr/?id=131141541568708608
+link : 	https://apply.biqapp.com/?id=131141541568708608
 ---
 ### 소개
 웹 기반 신규 서비스를 개발하고, 사용자의 경험 극대화를 시킵니다. 또한 웹으로 멈추지않고, 웹 서비스를 Electron, React native 와 같은 소프트웨어로 데스크탑, 모바일 애플리케이션 소프트웨어를 개발합니다.
