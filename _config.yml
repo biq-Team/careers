@@ -3,7 +3,7 @@
 name:               "biq careers"
 
 # URL
-baseurl:            "https://careers.biq.kr"
+baseurl:            "https://careers.biqapp.com"
 #baseurl:            "" #For Root Domain
 permalink:          /:title
 
